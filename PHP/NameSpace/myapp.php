@@ -1,5 +1,5 @@
 <?php
-use App\Lib1; //use
+//use App\Lib1; //use
 
 header('Content-type: text/plain');
 require_once('lib.php');
