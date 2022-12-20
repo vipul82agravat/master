@@ -9,7 +9,7 @@ function MyFunction() {
 }
 
 class MyClass1 {
-	static function WhoAmI($data) {
+	static function WhoAmI() {
 		return __METHOD__;
 	}
 }
