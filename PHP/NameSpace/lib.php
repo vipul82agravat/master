@@ -8,8 +8,9 @@ function MyFunction() {
 	return __FUNCTION__;
 }
 
-class MyClass {
-	static function WhoAmI($d) {
+
+class MyClass123 {
+	static function WhoAmI() {
 		return __METHOD__;
 	}
 }
