@@ -9,5 +9,7 @@ class MyClass {
 
 $c = __NAMESPACE__ . '\\MyClass';
 $m = new $c;
-echo $m->WhoAmI(); // outputs: App\Lib1\MyClass::WhoAmI
+echo  
+$m->WhoAmI(); // outputs: App\Lib1\MyClass::WhoAmI
+
 ?>
