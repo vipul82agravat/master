@@ -17,7 +17,7 @@
 <?php
 namespace App\Lib1;
 
-class MyClass {
+class MyClass11 {
 	public function WhoAmI() {
 		return __METHOD__;
 	}
