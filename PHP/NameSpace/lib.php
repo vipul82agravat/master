@@ -9,7 +9,6 @@ function MyFunction() {
 }
 class MyClass {
 	static function WhoAmI($cherr) {
-
 		return __METHOD__;
 	}
 }
