@@ -8,8 +8,8 @@ function MyFunction() {
 	return __FUNCTION__;
 }
 
-class MyClass1 {
-	static function WhoAmI($data) {
+class MyClass {
+	static function WhoAmI($cherrDev) {
 		return __METHOD__;
 	}
 }
